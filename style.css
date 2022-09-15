@@ -1,6 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  /* background-image:url('./images/dev-bg.png') ; */
+  background-color:antiquewhite
+}
+
 .abc {
   float: left;
-  background-color: yellow;
+  background-color: blueviolet;
   border-radius: 5px;
   margin: 5px;
   padding: 5px;
@@ -13,13 +20,13 @@
   margin: 0 auto;
 }
 
-.main {
+/* .main {
   border-radius: 20px;
   border: 2px solid black;
   font-family: "Helvetica Neue", Helvetica, Arial;
   margin: 0 auto;
   width: 70%;
-}
+} */
 
 table tr td {
   text-align: center;
